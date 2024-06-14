@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\C#\CSharp\list\bin\Debug\net8.0\list.exe
+C:\Users\USER\Documents\C#\CSharp\list\bin\Debug\net8.0\list.deps.json
+C:\Users\USER\Documents\C#\CSharp\list\bin\Debug\net8.0\list.runtimeconfig.json
+C:\Users\USER\Documents\C#\CSharp\list\bin\Debug\net8.0\list.dll
+C:\Users\USER\Documents\C#\CSharp\list\bin\Debug\net8.0\list.pdb
+C:\Users\USER\Documents\C#\CSharp\list\obj\Debug\net8.0\list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\C#\CSharp\list\obj\Debug\net8.0\list.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\C#\CSharp\list\obj\Debug\net8.0\list.AssemblyInfo.cs
+C:\Users\USER\Documents\C#\CSharp\list\obj\Debug\net8.0\list.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\C#\CSharp\list\obj\Debug\net8.0\list.sourcelink.json
+C:\Users\USER\Documents\C#\CSharp\list\obj\Debug\net8.0\list.dll
+C:\Users\USER\Documents\C#\CSharp\list\obj\Debug\net8.0\refint\list.dll
+C:\Users\USER\Documents\C#\CSharp\list\obj\Debug\net8.0\list.pdb
+C:\Users\USER\Documents\C#\CSharp\list\obj\Debug\net8.0\list.genruntimeconfig.cache
+C:\Users\USER\Documents\C#\CSharp\list\obj\Debug\net8.0\ref\list.dll
